@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] — Software Developer
+# Hi there, I'm Sakthivel — Software Developer
 
 Welcome to my GitHub! I'm a passionate **Software Developer** who enjoys solving real-world problems through clean, scalable, and efficient code.
 
@@ -38,8 +38,8 @@ Welcome to my GitHub! I'm a passionate **Software Developer** who enjoys solving
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakthiProgrammer&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakthiProgrammer&layout=compact&theme=radical)
 
 ---
 
