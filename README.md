@@ -45,8 +45,8 @@ Welcome to my GitHub! I'm a passionate **Software Developer** who enjoys solving
 
 ## 📫 Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-- [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/sakthiprogrammer)
+- [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:sakthiveld479@gmail.com)
 
 Thanks for stopping by! Feel free to explore my projects and reach out if you want to collaborate.
 
